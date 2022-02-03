@@ -1,0 +1,1 @@
+mongoimport --type csv -d testDB -c train_full --headerline --drop train_full.csv
