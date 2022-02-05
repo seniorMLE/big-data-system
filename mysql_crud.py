@@ -1,5 +1,6 @@
 import pymysql as sql
 import time
+import numpy as np
 
 booleanDB = False
 
